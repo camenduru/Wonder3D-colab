@@ -18,4 +18,5 @@ https://arxiv.org/abs/2310.15008
 https://www.xxlong.site/Wonder3D/
 
 ## Output
+![image](https://github.com/camenduru/Wonder3D-colab/assets/54370274/7ab88ed5-b920-4d89-be1a-bd73b360b00e)
 
