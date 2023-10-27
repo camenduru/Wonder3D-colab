@@ -23,3 +23,5 @@ https://www.xxlong.site/Wonder3D/
 ## Output
 ![image](https://github.com/camenduru/Wonder3D-colab/assets/54370274/7ab88ed5-b920-4d89-be1a-bd73b360b00e)
 
+https://github.com/camenduru/Wonder3D-colab/assets/54370274/f8aa3eba-b4c2-4701-94d3-43a724337d95
+
