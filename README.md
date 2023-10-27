@@ -10,6 +10,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/Wonder3D_mesh_colab.ipynb) | Wonder3D_mesh_colab (Thanks to [@bioinfolucas](https://twitter.com/bioinfolucas) for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/instant_nsr_pl_colab.ipynb) | instant_nsr_pl_colab
 
+## Tutorial
+![Screenshot 2023-10-27 101310](https://github.com/camenduru/Wonder3D-colab/assets/54370274/4138a80c-6c9d-4759-be9c-f5bd4a8094b1)
+
 ## Main Repo
 https://github.com/xxlong0/Wonder3D <br />
 https://github.com/bennyguo/instant-nsr-pl <br />
