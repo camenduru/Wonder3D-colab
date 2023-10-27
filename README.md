@@ -7,7 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/Wonder3D_colab.ipynb) | Wonder3D_colab
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/Wonder3D_mesh_colab.ipynb) | Wonder3D_mesh_colab (Thanks to [@bioinfolucas](https://twitter.com/bioinfolucas) ❤) -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/Wonder3D_mesh_colab.ipynb) | Wonder3D_mesh_colab (Thanks to [@bioinfolucas](https://twitter.com/bioinfolucas) ❤)
 
 ## Main Repo
 https://github.com/xxlong0/Wonder3D/
