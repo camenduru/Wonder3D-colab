@@ -13,6 +13,8 @@
 ## Tutorial
 ![Screenshot 2023-10-27 101310](https://github.com/camenduru/Wonder3D-colab/assets/54370274/4138a80c-6c9d-4759-be9c-f5bd4a8094b1)
 
+![Screenshot 2023-10-27 103038](https://github.com/camenduru/Wonder3D-colab/assets/54370274/10f9cd59-b482-4d4a-8da6-e43aa68b9d73)
+
 ## Main Repo
 https://github.com/xxlong0/Wonder3D <br />
 https://github.com/bennyguo/instant-nsr-pl <br />
