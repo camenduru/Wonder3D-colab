@@ -13,6 +13,7 @@
 ## Main Repo
 https://github.com/xxlong0/Wonder3D <br />
 https://github.com/bennyguo/instant-nsr-pl <br />
+https://huggingface.co/spaces/flamehaze1115/Wonder3D-demo/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2310.15008
