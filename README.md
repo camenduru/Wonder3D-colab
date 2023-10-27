@@ -11,8 +11,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/instant_nsr_pl_colab.ipynb) | instant_nsr_pl_colab
 
 ## Main Repo
-https://github.com/xxlong0/Wonder3D
-https://github.com/bennyguo/instant-nsr-pl
+https://github.com/xxlong0/Wonder3D <br />
+https://github.com/bennyguo/instant-nsr-pl <br />
 
 ## Paper
 https://arxiv.org/abs/2310.15008
