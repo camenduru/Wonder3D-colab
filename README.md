@@ -7,7 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/Wonder3D_colab.ipynb) | Wonder3D_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/Wonder3D_mesh_colab.ipynb) | Wonder3D_mesh_colab (Thanks to [@bioinfolucas](https://twitter.com/bioinfolucas) for the suggestion ❤) <br /> (Sometimes we need High-RAM 😐 sometimes we don't 😀 because Colab doesn't always provide exactly 12.7GB of RAM 😋)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/Wonder3D_mesh_colab.ipynb) | Wonder3D_mesh_colab (Thanks to [@bioinfolucas](https://twitter.com/bioinfolucas) for the suggestion ❤) <br /> (Because Colab doesn't always provide exactly 12.7GB of RAM 😋 sometimes we need High-RAM 😐 sometimes we don't 😀)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Wonder3D-colab/blob/main/instant_nsr_pl_colab.ipynb) | instant_nsr_pl_colab
 
 ## Tutorial
