@@ -14,7 +14,7 @@
 
 | Kaggle | Info
 | --- | --- |
-[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/wonder3d) | wonder3d_kaggle (Free T4)
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/wonder3d) | wonder3d_mesh_kaggle (Free T4)
 
 ## Tutorial
 ![Screenshot 2023-10-27 101310](https://github.com/camenduru/Wonder3D-colab/assets/54370274/4138a80c-6c9d-4759-be9c-f5bd4a8094b1)
